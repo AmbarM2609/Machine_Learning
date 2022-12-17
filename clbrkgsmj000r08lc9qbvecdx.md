@@ -18,8 +18,7 @@ Relational databases use a programming language called Structured Query Language
 
 Relational databases are widely used in a variety of applications, including business intelligence, data analysis, and web development. They are an essential tool for storing, organizing and managing large amounts of structured data efficiently. Examples of popular relational databases include MySQL, Oracle, and Microsoft SQL Server.
 
-###   
-NoSQL databases:
+### NoSQL databases:
 
 (also known as "non-relational" or "not only SQL" databases) are a type of database that is designed to handle large volumes of unstructured data and support distributed, scalable applications. They are often used in web-based applications, where the ability to store and retrieve data quickly is critical.
 
